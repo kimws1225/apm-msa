@@ -2,7 +2,7 @@ spring:
   application:
     name: msa-user-service
 server:
-  port: 8000
+  port: 8001
 eureka:
   client:
     service-url:
