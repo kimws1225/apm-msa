@@ -4,7 +4,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.bp'
+group = 'com.bp.msa'
 version = '1.0.0'
 sourceCompatibility = '8'
 
