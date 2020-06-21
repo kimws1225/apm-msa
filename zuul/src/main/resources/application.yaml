@@ -11,3 +11,5 @@ zuul:
   routes:
     msa-user-service:
       path: /api/user/**
+    msa-news-service:
+      path: /api/news/**
